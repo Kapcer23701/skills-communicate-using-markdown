@@ -10,3 +10,7 @@ add differences header
 ![Image of Saint Nictocat](https://octodex.github.com/images/saint_nictocat.jpg)
 
 Add image
+
+``` javascript
+var myVar = "Hello, world!";
+```
