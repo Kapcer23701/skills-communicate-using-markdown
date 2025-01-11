@@ -6,3 +6,7 @@
 ###### This is h6 header
 
 add differences header
+
+![Image of Saint Nictocat](https://octodex.github.com/images/saint_nictocat.jpg)
+
+Add image
